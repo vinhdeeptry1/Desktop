@@ -1,0 +1,10 @@
+Z:\2212493_Lab03_HD\Lab03_demo\Lab03_demo\bin\Debug\Lab03_demo.exe.config
+Z:\2212493_Lab03_HD\Lab03_demo\Lab03_demo\bin\Debug\Lab03_demo.exe
+Z:\2212493_Lab03_HD\Lab03_demo\Lab03_demo\bin\Debug\Lab03_demo.pdb
+Z:\2212493_Lab03_HD\Lab03_demo\Lab03_demo\obj\Debug\Lab03_demo.csproj.AssemblyReference.cache
+Z:\2212493_Lab03_HD\Lab03_demo\Lab03_demo\obj\Debug\Lab03_demo.frmChinh.resources
+Z:\2212493_Lab03_HD\Lab03_demo\Lab03_demo\obj\Debug\Lab03_demo.Properties.Resources.resources
+Z:\2212493_Lab03_HD\Lab03_demo\Lab03_demo\obj\Debug\Lab03_demo.csproj.GenerateResource.cache
+Z:\2212493_Lab03_HD\Lab03_demo\Lab03_demo\obj\Debug\Lab03_demo.csproj.CoreCompileInputs.cache
+Z:\2212493_Lab03_HD\Lab03_demo\Lab03_demo\obj\Debug\Lab03_demo.exe
+Z:\2212493_Lab03_HD\Lab03_demo\Lab03_demo\obj\Debug\Lab03_demo.pdb
